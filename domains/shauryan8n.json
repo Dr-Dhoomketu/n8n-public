@@ -1,0 +1,10 @@
+{
+  "subdomain": "shauryan8n",
+  "owner": {
+    "github": "Dr-Dhoomketu"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "trycloudflare.com"
+  }
+}
